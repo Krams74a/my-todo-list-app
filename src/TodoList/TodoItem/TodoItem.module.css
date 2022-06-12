@@ -1,0 +1,13 @@
+.todoItem {
+    width: 100%;
+    height: 200px;
+    margin-top: 5px;
+    padding: 3px;
+    padding-left: 25px;
+    background-color: #fafafb;
+    color: black;
+}
+
+.buttonContainer {
+    align-items: center;
+}
